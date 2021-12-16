@@ -1,0 +1,16 @@
+v-on = Es una directiva que detecta eventos de cambios en el DOM
+
+v-model = Sirve para crear bindings de datos bidireccionales en elementos input, textarea y select de un formulario. La directiva busca automaticamente la manera correcta de actualizar el elemento segun el tipo de entrada
+
+v-text = Actualiza los elementos textContent
+
+v-html = Actualiza el elemento innerHTML
+
+v-if = Crea un bloque condicional, tambien se puede usar v-else para indicar un bloque "else" junto con esta directiva
+
+v-else-if = Sirve como bloque "else-if" para v-if
+
+v-show = Es una directiva que sirve para mostrar un elemento condicional, basicamente se utiliza de la misma forma. La diferencia es que un elemento con v-show siempre se renderizará y permanecerá en el DOM; v-show alterna la propiedad de CSS "display" del elemento
+
+
+
